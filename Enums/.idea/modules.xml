@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Enums.iml" filepath="$PROJECT_DIR$/.idea/Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Generics/Generics.iml" filepath="$PROJECT_DIR$/../Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Images/Images.iml" filepath="$PROJECT_DIR$/../Images/Images.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InputOutputOperations/InputOutputOperations.iml" filepath="$PROJECT_DIR$/../InputOutputOperations/InputOutputOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InputOutputOperations/Java DB JDBC/Java DB JDBC.iml" filepath="$PROJECT_DIR$/../InputOutputOperations/Java DB JDBC/Java DB JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Multi-Threading/Multi-Threading.iml" filepath="$PROJECT_DIR$/../Multi-Threading/Multi-Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Networking/Networking.iml" filepath="$PROJECT_DIR$/../Networking/Networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Serialization/Serialization.iml" filepath="$PROJECT_DIR$/../Serialization/Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Multi-Threading/Syncronization/Syncronization.iml" filepath="$PROJECT_DIR$/../Multi-Threading/Syncronization/Syncronization.iml" />
+    </modules>
+  </component>
+</project>
